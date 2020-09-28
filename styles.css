@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.no{
+    margin-right: 0px;
+    float: left;
+    font-weight: 500;
+    
+}
+.bt{
+    margin-left: 0px;
+    border-bottom-color: rgba(153, 199, 232, 0.9);
+    
+}
+
+.list{
+    color: #ed2121;
+    font-weight: 1000;
+    font-size: 16.5px;
+}
+
